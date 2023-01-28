@@ -6,7 +6,7 @@
  * 1
  * 2
  * Justification : here in the for loop we have declared i as let i.e., it gets block scope
- * so it effects value of i , in every blocl
+ * so it effects value of i , in every block
  */
 function fun()
 {
